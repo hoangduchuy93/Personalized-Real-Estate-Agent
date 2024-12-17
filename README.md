@@ -43,3 +43,20 @@ Note: it is important to notice that the ChromaDB only works with version **0.3.
 ```
 jupyter notebook
 ```
+
+## IV. Chatbot Real Estate Consultant
+Below are some examples from chatbot to consult the customers
+
+Example 1:
+```
+- Question "A comfortable three-bedroom house with a spacious kitchen and a cozy living room." 
+- Answer:
+Based on your preferences for a comfortable three-bedroom house with a spacious kitchen and a cozy living room, I have found the perfect property for you. This stunning home features a gourmet kitchen with stainless steel appliances, perfect for whipping up delicious meals for your family and friends. The open-concept living area is ideal for relaxing or entertaining, with a cozy fireplace to create a warm and inviting atmosphere.
+
+The spacious master suite offers a private retreat with a luxurious en-suite bathroom and walk-in closet, providing you with the perfect sanctuary to unwind after a long day. Additionally, the master suite also boasts a jetted tub, perfect for relaxing and rejuvenating.
+
+Furthermore, the updated kitchen includes modern appliances and a breakfast nook, making it the perfect space to start your day with a cup of coffee. The master suite also offers a private balcony, where you can enjoy your morning coffee or relax in the evening with a glass of wine while taking in the beautiful views.
+
+Overall, this property not only meets your criteria for a comfortable three-bedroom house with a spacious kitchen and cozy living room, but it also exceeds your expectations with its luxurious features and amenities. I believe this property is the perfect fit for you and I highly recommend you schedule a viewing to experience it for yourself.
+Sources: ['2', '4', '5']
+```

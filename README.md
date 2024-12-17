@@ -70,3 +70,7 @@ This 4-bedroom, 3-bathroom home is ideal for entertaining guests or simply relax
 The master suite is a true sanctuary, offering a jetted tub for ultimate relaxation and a walk-in closet for all your storage needs. With a modern kitchen perfect for entertaining, and the convenience of living within walking distance to top restaurants, shops, and entertainment venues, this home truly has it all. Don't miss out on the opportunity to make this your dream home!
 Sources: ['1', '2', '4']
 ```
+
+## V. Standout Suggestion
+- Enhancing the HomeMatch application with image integration and CLIP-based search is a valuable direction for future development. It would allow users to upload images (e.g., preferred home styles) and combine them with text queries for more personalized and accurate results.
+- This multi-modal search capability can significantly improve user engagement and experience. Exploring this innovation in the future will give HomeMatch a competitive edge over traditional real estate platforms.

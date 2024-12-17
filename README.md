@@ -37,4 +37,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Note: it is important to notice that the ChromaDB only works with version **0.3.29**. Unless this version, you can not persist the embeddings
+Note: it is important to notice that the ChromaDB only works with version **0.3.29**. Unless this version, you can not persist the embeddings. Please install ChromaDB with **%pip install chromadb==0.3.29**
+
+4. Run the notebook
+```
+jupyter notebook
+```
